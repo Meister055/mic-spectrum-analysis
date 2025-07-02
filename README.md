@@ -1,1 +1,1 @@
-# A script to automate the weekly spectrum analysis for WISPs.
+# A script to automate the bi-weekly spectrum analysis for WISPs.
