@@ -12,6 +12,10 @@
 - Python 3.8 or higher
 - `pip install -r requirements.txt`
 ### Usage
+- Clone the source code with `git clone https://github.com/Meister055/mic-spectrum-analysis.git`
+- Change into the directory `cd mic-spectrum-analysis`
+- (Optional) Create a virtual envirionment `python -m venv venv`
+- Install the required libraries `pip install -r requirements.txt`
 - Run the script with `python main.py`.
 - Type the full directory path where the spectrum data is stored.
 - Type the full directory path where the output should be saved.
